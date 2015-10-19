@@ -18,3 +18,8 @@
 
 - [x] the-react-book comment component
 - [ ] the-react-book
+
+### angular-in-action
+
+- [x] ui-route
+- [ ] [angular-http-batcher](https://github.com/jonsamwell/angular-http-batcher)
